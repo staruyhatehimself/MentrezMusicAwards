@@ -1,5 +1,6 @@
 const DATA = {
   "album": [
+    { name: "OG Buda — SZN", img: "covers/albums/budaszn.jpg" },
     { name: "тёмный принц — мрачные треды", img: "./covers/albums/photo_2025-12-28_01-17-20.jpg" },
     { name: "xxxmanera — HUNNID: GATEKEEPING", img: "covers/albums/photo_2025-12-28_01-17-36.jpg" },
     { name: "AUGUST — DJ AUSGUST", img: "covers/albums/photo_2025-12-28_01-17-46.jpg" },
