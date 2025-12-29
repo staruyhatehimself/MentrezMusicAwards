@@ -3,7 +3,6 @@ const DATA = {
     { name: "тёмный принц — мрачные треды", img: "./covers/albums/photo_2025-12-28_01-17-20.jpg" },
     { name: "xxxmanera — HUNNID: GATEKEEPING", img: "covers/albums/photo_2025-12-28_01-17-36.jpg" },
     { name: "AUGUST — DJ AUSGUST", img: "covers/albums/photo_2025-12-28_01-17-46.jpg" },
-    { name: "White Punk — Вампиръ: Глава Вторая", img: "covers/albums/photo_2025-12-28_01-17-46.jpg" },
     { name: "Whole Lotta Swag — NO TYPE", img: "covers/albums/photo_2025-12-28_01-18-09.jpg" },
     { name: "madk1d — sexyswag", img: "covers/albums/photo_2025-12-28_01-18-20.jpg" },
     { name: "Маленький ярче — ANDERRATED", img: "covers/albums/photo_2025-12-28_01-18-28.jpg" },
@@ -454,7 +453,6 @@ const DATA = {
     { name: "vovchik bald", img: "covers/fresh/photo_2025-12-28_22-57-14.jpg" }
   ],
   "afk": [
-    { name: "Boulevard Depo", img: "covers/afk/photo_2025-12-29_00-09-13.jpg" },
     { name: "uglystephan", img: "covers/afk/photo_2025-12-29_00-06-38.jpg" },
     { name: "DK", img: "covers/afk/photo_2025-12-29_00-08-29.jpg" },
     { name: "Magnum Opus", img: "covers/afk/photo_2025-12-29_00-08-51.jpg" },
@@ -491,7 +489,6 @@ const DATA = {
     { name: "Ганвест", img: "covers/comeback/photo_2025-12-29_01-13-23.jpg" },
     { name: "Кровосток", img: "covers/comeback/PsBQlQmSMAtwMQRKiuiJ1F8SylDiVPCb71zIX3xR7f5E8Ms1YT3wmZJAyPEDIynCZSWAaa9EZhVCeg4k.jpg" },
     { name: "УННВ", img: "covers/comeback/Q9VMaKaiqY2gIjF0GqztAj_UvLDg3sxDQflDVYekjhIF22NZSPwl_Ia-xIyz_0E5fY-b8uablT9MBSOr.jpg" },
-    { name: "ROCKET", img: "covers/comeback/.jpg" },
     { name: "PHARAOH", img: "covers/artists/photo_2025-12-28_15-05-54.jpg" },
     { name: "SIDODGI DUBOSHIT", img: "covers/comeback/photo_2025-12-29_01-41-28.jpg" },
     { name: "Yanix", img: "covers/comeback/photo_2025-12-29_01-41-42.jpg" },
