@@ -9,7 +9,9 @@ const categories = [
   { id: 'artist', name: 'Артист года' },
   { id: 'fresh', name: 'Фрешмен года' },
   { id: 'comeback', name: 'Камбэк года' },
-  { id: 'cringe', name: 'Кринж года' }
+  { id: 'cringe', name: 'Кринж года' } ,
+  { id: 'proda', name: 'Продолжение года' },
+  { id: 'afk', name: 'AFK года' }
 ];
 
 const form = document.getElementById('yearForm');
