@@ -249,7 +249,7 @@ const DATA = {
     { name: "Oxxxymiron – Национальность: нет", img: "covers/fail1/photo_2025-12-28_03-15-47.jpg" },
     { name: "kizaru – SIMBA", img: "covers/fail1/photo_2025-12-28_03-15-53.jpg" },
     { name: "uniqe, nkeeei, ARTEM SHILOVETS – 2007, Ч. 2", img: "covers/fail1/photo_2025-12-28_03-15-59.jpg" },
-    { name: "LOVV66 – BARTER 66", img: "covers/fail1/photo_2025-12-28_03-16-09.jpg" },
+    { name: "LOVV66 – BARTER 66", img : "/MentrezMusicAwards/covers/fail1/photo_2025-12-28_03-16-09.jpg"},
     { name: "LXNER – me", img: "covers/fail1/photo_2025-12-28_03-16-21.jpg" },
     { name: "JDFLAG – NE FLAГSTRИК", img: "covers/fail1/photo_2025-12-28_03-16-34.jpg" },
     { name: "madk1d – sexyswag", img: "covers/fail1/photo_2025-12-28_03-16-44.jpg" },
