@@ -70,7 +70,7 @@ document.getElementById('sendBtn').onclick = async () => {
     result[cat.name] = selected;
   });
 
-  // Формируем текст
+  
   let text = "🎵 *Итоги года*\n\n";
   for (const key in result) {
     if (result[key].length) {
@@ -82,7 +82,7 @@ document.getElementById('sendBtn').onclick = async () => {
     }
   }
 
-  // 🔴 ТВОЙ ТОКЕН И CHAT_ID
+  
   const TOKEN = "8584752558:AAH_FAFKhuTzp7E8AP9oelHTl_TZoX5LLEg";
   const CHAT_ID = "743385247";
 
