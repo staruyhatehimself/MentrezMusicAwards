@@ -45,9 +45,11 @@ const DATA = {
     { name: "REVETG — Solitude Requiem", img: "covers/albums/photo_2025-12-28_01-24-33.jpg" },
     { name: "FORTUNA 812 — basedgod", img: "covers/albums/photo_2025-12-28_01-24-43.jpg" },
     { name: "Blockkid — 7hillscity", img: "covers/albums/photo_2025-12-28_01-24-53.jpg" },
-    { name: "Aarne, Toxi$ — SLAANG", img: "covers/albums/photo_2025-12-28_01-25-00.jpg" }
+    { name: "Aarne, Toxi$ — SLAANG", img: "covers/albums/photo_2025-12-28_01-25-00.jpg" },
+    { name: "White Punk — Вампиръ: Глава Вторая", img: "covers/albums/punk.jpg" }
   ],
   "ep": [
+    { name: "xxxmanera — Man Of Era 3", img: "covers/eps/manera.jpg" },
     { name: "FORTUNA 812 — BLOND & BLUNTS", img: "covers/eps/photo_2025-12-28_01-50-51.jpg" },
     { name: "MORGENSHTERN — ALISHER", img: "covers/eps/photo_2025-12-28_01-50-59.jpg" },
     { name: "T-Fest — Madonnina", img: "covers/eps/photo_2025-12-28_01-51-11.jpg" },
@@ -86,6 +88,7 @@ const DATA = {
     { name: "MAYOT, luvdakash — Бар За Баром", img: "covers/eps/photo_2025-12-28_01-57-10.jpg" }
   ],
   "single": [
+    { name: "Платина — Хенни", img: "covers/singles/platina.jpg" },
     { name: "YUNGWAY — Ослепнуть", img: "covers/singles/photo_2025-12-28_02-30-27.jpg" },
     { name: "9mice — Anora", img: "covers/singles/photo_2025-12-28_02-30-32.jpg" },
     { name: "Heronwater — TOKYO WATER", img: "covers/singles/photo_2025-12-28_02-30-40.jpg" },
@@ -228,6 +231,7 @@ const DATA = {
     { name: "White Punk, PHARAOH – Небо", img: "covers/fits/photo_2025-12-29_03-20-55.jpg" }
   ],
   "fail": [
+    { name: "ROCKET – Fuck The Industry", img: "covers/fail1/rocketfail.jpg" },
     { name: "OBLADAET – 735", img: "covers/fail1/photo_2025-12-28_03-13-46.jpg" },
     { name: "Kai Angel – ANGEL MAY CRY 2", img: "covers/fail1/photo_2025-12-28_03-13-52.jpg" },
     { name: "PHARAOH – 10:13", img: "covers/fail1/photo_2025-12-28_03-14-03.jpg" },
@@ -257,6 +261,7 @@ const DATA = {
     { name: "FENDIGLOCK – NO TUNE", img: "covers/fail1/photo_2025-12-28_03-17-14.jpg" }
   ],
   "proda": [
+    { name: "xxxmanera — Man Of Era 3", img: "covers/proda/manera2.jpg" },
     { name: "Милиан О'Войд – LOVE STARS MILI 2: OVERFRECKLES", img: "covers/proda/photo_2025-12-28_03-23-08.jpg" },
     { name: "MAYOT – ДОЗ4ПР4ВК4", img: "covers/proda/photo_2025-12-28_03-23-17.jpg" },
     { name: "i61 – STORYTELL 2", img: "covers/proda/photo_2025-12-28_03-23-28.jpg" },
@@ -449,6 +454,7 @@ const DATA = {
     { name: "vovchik bald", img: "covers/fresh/photo_2025-12-28_22-57-14.jpg" }
   ],
   "afk": [
+    { name: "Boulevard Depo", img: "covers/afk/photo_2025-12-29_00-09-13.jpg" },
     { name: "uglystephan", img: "covers/afk/photo_2025-12-29_00-06-38.jpg" },
     { name: "DK", img: "covers/afk/photo_2025-12-29_00-08-29.jpg" },
     { name: "Magnum Opus", img: "covers/afk/photo_2025-12-29_00-08-51.jpg" },
@@ -475,6 +481,7 @@ const DATA = {
     { name: "vovanessa", img: "covers/afk/magichour_ai-image-editor-2025-12-29-34ad7522-8ae1-4155-a302-5c2a84e73cdb.png" }
   ],
   "comeback": [
+    { name: "ROCKET", img: "covers/comeback/rocketback.jpg" },
     { name: "IC3PEAK", img: "covers/comeback/photo_2025-12-29_01-07-04.jpg" },
     { name: "PLOHOYAPREN", img: "covers/comeback/photo_2025-12-29_01-08-06.jpg" },
     { name: "MLK+", img: "covers/comeback/photo_2025-12-29_01-08-39.jpg" },
