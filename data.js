@@ -9,7 +9,7 @@ const DATA = {
     { name: "КУОК — QTOPIA", img: "covers/albums/photo_2025-12-28_01-18-37.jpg" },
     { name: "Loqiemean — ACCEPT ALL COOKIES", img: "covers/albums/photo_2025-12-28_01-18-43.jpg" },
     { name: "FRIENDLY THUG 52 NGG — GMC / MVP", img: "covers/albums/photo_2025-12-28_01-18-51.jpg" },
-    { name: "PHARAOH — 10:10:13", img: "covers/albums/photo_2025-12-28_01-19-08.jpg" },
+    { name: "PHARAOH — 10:13", img: "covers/albums/photo_2025-12-28_01-19-08.jpg" },
     { name: "BATO — 6lankname 2", img: "covers/albums/photo_2025-12-28_01-19-18.jpg" },
     { name: "kizaru — SIMBA", img: "covers/albums/photo_2025-12-28_01-19-25.jpg" },
     { name: "MACAN — BRATLAND", img: "covers/albums/photo_2025-12-28_01-19-37.jpg" },
