@@ -456,7 +456,7 @@ const DATA = {
     { name: "uglystephan", img: "covers/afk/photo_2025-12-29_00-06-38.jpg" },
     { name: "DK", img: "covers/afk/photo_2025-12-29_00-08-29.jpg" },
     { name: "Magnum Opus", img: "covers/afk/photo_2025-12-29_00-08-51.jpg" },
-    { name: "Boulevrad Depo", img: "covers/afk/photo_2025-12-29_00-09-13.jpg" },
+    { name: "Boulevard Depo", img: "covers/afk/photo_2025-12-29_00-09-13.jpg" },
     { name: "Шайни", img: "covers/afk/photo_2025-12-29_00-10-08.jpg" },
     { name: "drowsyy", img: "covers/afk/photo_2025-12-29_00-11-21.jpg" },
     { name: "Telly Grave", img: "covers/afk/photo_2025-12-29_00-11-52.jpg" },
