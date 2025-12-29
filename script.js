@@ -11,6 +11,7 @@ const categories = [
   { id: 'comeback', name: 'Камбэк года' },
   { id: 'cringe', name: 'Кринж года' } ,
   { id: 'proda', name: 'Продолжение года' },
+  { id: 'otkritie', name: 'Открытие года' },
   { id: 'afk', name: 'AFK года' }
 ];
 
